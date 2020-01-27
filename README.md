@@ -5,3 +5,4 @@ Los cursos de han ido desarrollando en el siguiente orden:
 
 1. `Python`
 2. `Pandas`
+3. `Data Visualization` (_por comenzar_)
