@@ -4,4 +4,4 @@ En este *repositorio* se adjuntan los cursos realizados en la página de [Kaggle
 Los cursos de han ido desarrollando en el siguiente orden:
 
 1. `Python`
-2. `Pandas` (_sin completar_)
+2. `Pandas`
